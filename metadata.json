@@ -1,0 +1,5 @@
+{
+  "name": "PIXEL Studio",
+  "description": "A high-end AI image generation and editing studio powered by Gemini 2.5 Flash Image. Create, remix, and refine digital art with a pixel-perfect interface.",
+  "requestFramePermissions": []
+}
